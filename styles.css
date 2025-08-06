@@ -5,7 +5,7 @@
   border-radius: 6px;
   padding: 15px 20px;
   margin-bottom: 30px;
-  margin-top: 30px; 
+  margin-top: 60px; 
   position: relative;
 }
 
@@ -25,7 +25,7 @@ h1 {
     font-size: 16px;
     color: #333333;
     font-weight: bold;
-    margin-top: 30px;
+    margin-top: 60px;
     padding-top: 10px;
   }
 h1.title {
@@ -41,14 +41,14 @@ h2 {
   font-size: 15px;
   color: #333333;
   font-weight: bold;
-  margin-top: 30px;
+  margin-top: 60px;
 }
 h3 {
 
   font-size: 13px;
   color: #333333;
   font-weight: bold;
-  margin-top: 30px;
+  margin-top: 60px;
 }
 h4 {
   font-size: 13px;
@@ -74,3 +74,4 @@ pre {
   color: #000000;
   font-size: 12px;
 }
+
